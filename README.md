@@ -12,8 +12,7 @@ Official distribution metadata for the hosted Agent Revenue Auditor MCP server.
 
 ### One click
 
-- [Install in VS Code](vscode:mcp/install?%7B%22name%22%3A%22agent-revenue-auditor%22%2C%22type%22%3A%22http%22%2C%22url%22%3A%22https%3A%2F%2Fagent-revenue-auditor.vandurmedries.workers.dev%2Fmcp%22%7D)
-- [Install in Cursor](cursor://anysphere.cursor-deeplink/mcp/install?name=agent-revenue-auditor&config=eyJhZ2VudC1yZXZlbnVlLWF1ZGl0b3IiOnsidXJsIjoiaHR0cHM6Ly9hZ2VudC1yZXZlbnVlLWF1ZGl0b3IudmFuZHVybWVkcmllcy53b3JrZXJzLmRldi9tY3AifX0=)
+[Open the HTTPS install page](https://agent-revenue-auditor.vandurmedries.workers.dev/partners), then choose **Add to VS Code** or **Add to Cursor**.
 
 VS Code and Cursor will show the server configuration before enabling it. No API key is required for the free discovery tools.
 
