@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.vandurmedries/agent-revenue-auditor",
+  "title": "Agent Revenue Auditor",
+  "description": "Free preflight and exact-price discovery for paid website and AI-agent audits.",
+  "repository": {
+    "url": "https://github.com/vandurmedries/agent-revenue-auditor-mcp",
+    "source": "github"
+  },
+  "version": "0.5.1",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://agent-revenue-auditor.vandurmedries.workers.dev/mcp"
+    }
+  ]
+}
