@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "agent-revenue-auditor": {
+      "url": "https://agent-revenue-auditor.vandurmedries.workers.dev/mcp"
+    }
+  }
+}
