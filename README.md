@@ -8,6 +8,15 @@ Official distribution metadata for the hosted Agent Revenue Auditor MCP server.
 - Privacy: `https://agent-revenue-auditor.vandurmedries.workers.dev/privacy`
 - Terms: `https://agent-revenue-auditor.vandurmedries.workers.dev/terms`
 
+## Productized agency pack
+
+The [Agency Prospect Audit Pack](AGENCY-PROSPECT-PACK.md) ranks up to 20 public company websites for visible conversion and technical opportunities, with evidence and a recommended next sales action.
+
+- 5-site pilot: up to $0.40
+- 10-site batch: up to $0.80
+- 20-site pack: up to $1.60
+- Checkout and delivery run through [Apify](https://apify.com/wintry_nutmeg/agent-revenue-auditor)
+
 ## Install
 
 ### One click
